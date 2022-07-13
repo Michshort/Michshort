@@ -1,4 +1,5 @@
 ## Hello! I'm Michelli Silva 👋
+<p>I'm frontend develper in carrer transition. </p>
 
 <div align="center">
   <a href="https://github.com/Michshort">
