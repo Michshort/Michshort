@@ -28,7 +28,7 @@
 
 ##
 
-- 🔭 I’m currently working on Santander Code Girls Bootcamp on the DIO plataform.
+- 🌱 I’m currently learning on Python Intensive. (Scrapping, task automation, data analysis.)
 
 <!--
 **Michshort/Michshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
