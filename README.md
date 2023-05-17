@@ -1,5 +1,5 @@
 ## Hello! I'm Michelli Silva 👋
-<p>I'm frontend develper in carrer transition. </p>
+<p>I'm developer in carrer transition. </p>
 
 <div align="center">
   <a href="https://github.com/Michshort">
@@ -14,7 +14,8 @@
   <img align="center" alt="Mich-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mich-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mich-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mich-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Mich-PYTHON" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg#/media/File:Python-logo-notext.svg">
+  
 </div>
 
 ##
